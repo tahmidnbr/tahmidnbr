@@ -49,7 +49,7 @@
 
 **Thank you for visiting my profile! 😊**
 
-[![Public Repos](https://raw.githubusercontent.com/tahmidnbr/tahmidnbr/main/REPO_BADGE.md)](#)
+![Top Language](https://img.shields.io/github/languages/top/tahmidnbr/XML-Clock?style=flat-square)
 
 
 </div>
