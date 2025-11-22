@@ -1,21 +1,27 @@
-name: Update Repo Count Badge
+name: Repo Count Badge
 
 on:
   schedule:
-    - cron: "0 * * * *"  # updates hourly
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Get repo count
-        id: repo
+      - name: Get repository count
+        id: get_count
         run: |
           COUNT=$(curl -s https://api.github.com/users/tahmidnbr | jq '.public_repos')
           echo "count=$COUNT" >> $GITHUB_OUTPUT
 
-      - name: Update badge
+      - name: Create badge
         run: |
-          echo "![Public Repos](https://img.shields.io/badge/Public%20Repos-${{ steps.repo.outputs.count }}-blue)" > badge.md
+          echo "![Public Repos](https://img.shields.io/badge/Public%20Repos-${{ steps.get_count.outputs.count }}-blue)" > REPO_BADGE.md
 
+      - name: Upload badge
+        uses: actions/upload-artifact@v3
+        with:
+          name: repo-badge
+          path: REPO_BADGE.md
