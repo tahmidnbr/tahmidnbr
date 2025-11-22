@@ -8,19 +8,19 @@
 
 </div>
 
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **tahmidnbr@gmail.com**
-
-</div>
-
 ## 🌐 Connect with Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahmidnbr)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/tahmid-nibir-385bb4383/)&nbsp;&nbsp;&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/https://codeforces.com/profile/Nibirbhai)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/https://leetcode.com/u/nibirShab/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahmidnbr)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-nibir-385bb4383/)
+&nbsp;&nbsp;&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nibirbhai)
+&nbsp;&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nibirShab/)
+&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidnbr@gmail.com)
 
 </div>
 
@@ -56,6 +56,6 @@
 
 **Thank you for visiting my profile! 😊**
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-42-blue)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-6-blue)
 
 </div>
