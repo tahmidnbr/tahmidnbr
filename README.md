@@ -49,6 +49,7 @@
 
 **Thank you for visiting my profile! 😊**
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-6-blue)
+[![Public Repos](https://raw.githubusercontent.com/tahmidnbr/tahmidnbr/main/REPO_BADGE.md)](#)
+
 
 </div>
