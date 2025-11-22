@@ -1,1 +1,21 @@
+name: Update Repo Count Badge
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # updates hourly
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get repo count
+        id: repo
+        run: |
+          COUNT=$(curl -s https://api.github.com/users/tahmidnbr | jq '.public_repos')
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Update badge
+        run: |
+          echo "![Public Repos](https://img.shields.io/badge/Public%20Repos-${{ steps.repo.outputs.count }}-blue)" > badge.md
 
