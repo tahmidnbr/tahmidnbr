@@ -37,7 +37,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahmidnbr&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![streak](https://github-readme-streaks.vercel.app/?user=tahmidnbr&theme=dark)
 
 </div>
 
