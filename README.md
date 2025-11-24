@@ -49,7 +49,7 @@
 
 **Thank you for visiting my profile! 😊**
 
-![Top Language](https://img.shields.io/github/languages/top/tahmidnbr/XML-Clock?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=tahmidnbr&color=brightgreen&style=flat&label=Profile+Views)
 
 
 </div>
