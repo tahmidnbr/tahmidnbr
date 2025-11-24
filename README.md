@@ -39,6 +39,9 @@
 
 ![streak](https://github-readme-streaks.vercel.app/?user=tahmidnbr&theme=dark)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=tahmidnbr&theme=gruvbox&row=1&column=6&margin-w=5&no-frame=true)
+
+
 </div>
 
 ---
