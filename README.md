@@ -4,11 +4,7 @@
 
 ### Try to cook a code but always burn it! 🔥
 
-<img src="https://github.com/tahmidnbr.png" alt="Nibir" width="150" height="150" style="border-radius: 50%;" />
-
 </div>
-
-## 🌐 Connect with Me
 
 <div align="center">
 
@@ -24,23 +20,17 @@
 
 </div>
 
-## 🛠️ Skills & Technologies
 <div align="center">
   
 | Languages | Android Development | Backend & BaaS | Frameworks | Game Engines |
 |----------|----------------------|----------------|------------|--------------|
-| <div align="center"><img src="https://cdn.simpleicons.org/c/A8B9CC?size=32" /> <img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" /> <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" /> <img src="https://cdn.simpleicons.org/python/3776AB?size=32" /></div> | <div align="center"> <img src="https://cdn.simpleicons.org/android/3DDC84?size=32" /> <img src="https://cdn.simpleicons.org/kotlin/7F52FF?size=32" /> </div> | <div align="center"> <img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" /> <img src="https://cdn.simpleicons.org/firebase/FFCA28?size=32" /> </div> | <div align="center"> <img src="https://cdn.simpleicons.org/django/092E20?size=32" /> <img src="https://cdn.simpleicons.org/flask/000000?size=32" /> </div> | <div align="center"> <img src="https://cdn.simpleicons.org/unity/FFFFFF?size=32" /> </div>|
+| <div align="center"><img src="https://cdn.simpleicons.org/c/A8B9CC?size=32" /> <img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" /> <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" /> <img src="https://cdn.simpleicons.org/python/3776AB?size=32" /></div> | <div align="center"> <img src="https://cdn.simpleicons.org/android/3DDC84?size=32" /> <img src="https://cdn.simpleicons.org/kotlin/7F52FF?size=32" /> </div> | <div align="center"> <img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" /> <img src="https://cdn.simpleicons.org/firebase/FFCA28?size=32" /> <img src="https://cdn.simpleicons.org/sqlite/003B57?size=32" /> <img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" /> </div> | <div align="center"> <img src="https://cdn.simpleicons.org/django/092E20?size=32" /> <img src="https://cdn.simpleicons.org/flask/000000?size=32" /> </div> | <div align="center"> <img src="https://cdn.simpleicons.org/unity/FFFFFF?size=32" /> </div>|
 
 </div>
 
-## 📊 GitHub Stats & Activity
-
 <div align="center">
-
-![streak](https://github-readme-streaks.vercel.app/?user=tahmidnbr&theme=dark)
-
-
-
+  
+  ![streak](https://github-readme-streaks.vercel.app/?user=tahmidnbr&theme=dark)
 
 </div>
 
